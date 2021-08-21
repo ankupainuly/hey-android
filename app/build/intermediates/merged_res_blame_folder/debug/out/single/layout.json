@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_o_t_p.xml",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/activity_o_t_p.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_chat.xml",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_receive.xml",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/item_receive.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_o_t_p_verify.xml",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/activity_o_t_p_verify.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profile_setup.xml",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/activity_profile_setup.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_send.xml",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/item_send.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_conversation.xml",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/row_conversation.xml"
+    }
+]

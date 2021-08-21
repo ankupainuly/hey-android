@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_camera.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_video.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-mdpi/ic_video.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_camera.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_camera.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-hdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_send.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_download.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable-mdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_received_drawable.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/received_drawable.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_chats.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-hdpi/ic_chats.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_textbox_outline.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/textbox_outline.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_search.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_camera.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-ldpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_video.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_video.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_send.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_backgroundbutton.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/backgroundbutton.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_download.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable-xxxhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_attachment.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-hdpi/ic_attachment.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_circle_bg.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_chats.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_chats.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/layout_item_send.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/item_send.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/layout_activity_o_t_p.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/activity_o_t_p.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_send.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_bg.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_btn_bg.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_chats.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_chats.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_attachment.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_attachment.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_search.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-v24_image.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable-v24/image.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_send.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_chats.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_chats.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_search.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_send.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-hdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_attachment.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_attachment.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_circle_theme.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/circle_theme.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_video.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-ldpi/ic_video.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_camera.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-mdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_attachment.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-mdpi/ic_attachment.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/layout_item_receive.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/item_receive.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_video.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_video.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_chats.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-ldpi/ic_chats.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_video.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_video.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/layout_activity_profile_setup.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/activity_profile_setup.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_attachment.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-ldpi/ic_attachment.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_chats.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_chats.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/layout_activity_chat.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_chats.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-mdpi/ic_chats.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_camera.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_attachment.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_attachment.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_send.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-ldpi/ic_send.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_attachment.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_attachment.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_download.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable-xxhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/layout_row_conversation.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/row_conversation.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_backgroundbox.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/backgroundbox.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_search.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_camera.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_camera.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/font_roboto_light.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/font/roboto_light.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_download.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable-xhdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/layout_activity_o_t_p_verify.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/layout/activity_o_t_p_verify.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_otp_verify.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/otp_verify.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_sent_drawable.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/sent_drawable.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_video.xml.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_video.xml"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_avatar.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/avatar.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_send.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-mdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_download.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable-hdpi/ic_download.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable_mobile_auth.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/src/main/res/drawable/mobile_auth.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_search.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/ankur/AndroidStudioProjects/Hey/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_video.png.flat",
+        "source": "/home/ankur/AndroidStudioProjects/Hey/app/build/generated/res/pngs/debug/drawable-hdpi/ic_video.png"
+    }
+]
